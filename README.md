@@ -16,5 +16,9 @@ https://user-images.githubusercontent.com/70162137/228035459-d555f87c-d1e6-4ac4-
 * For training, more detail in [this repo](https://github.com/KyawHtetLinn/Football-players-detection-and-Tracking/tree/main/train)
 * For inference, in [this repo](https://github.com/KyawHtetLinn/Football-players-detection-and-Tracking/tree/main/inference)
 
+## Loss Metrics
+
+![alt text](https://github.com/KyawHtetLinn/Football-players-detection-and-Tracking/blob/main/assets/Loss.png)
+
 
 
