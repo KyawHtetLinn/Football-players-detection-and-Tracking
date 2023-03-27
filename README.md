@@ -3,9 +3,10 @@
 Training FasterRCNN to detect football players with pytorch and tracking each player with ByteTrack.
 
 The model will detect - 
-* the player
-* the referee 
-* the ball
+* player
+* referee 
+* ball
+* goalkeeper
 
 ## Test Results
 
