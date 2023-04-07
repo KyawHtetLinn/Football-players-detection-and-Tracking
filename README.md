@@ -19,8 +19,8 @@ https://user-images.githubusercontent.com/70162137/228035459-d555f87c-d1e6-4ac4-
 * 50 epochs
 * [fasterrcnn_resnet50_fpn](https://pytorch.org/vision/main/models/generated/torchvision.models.detection.fasterrcnn_resnet50_fpn.html#fasterrcnn-resnet50-fpn)
 * threshold - 0.8 for inference 
-* For training, more detail in [this repo](https://github.com/KyawHtetLinn/Football-players-detection-and-Tracking/tree/main/train)
-* For inference, in [this repo](https://github.com/KyawHtetLinn/Football-players-detection-and-Tracking/tree/main/inference)
+* For training, more detail in [this notebook](https://github.com/KyawHtetLinn/Football-players-detection-and-Tracking/tree/main/train)
+* For inference, in [this notebook](https://github.com/KyawHtetLinn/Football-players-detection-and-Tracking/tree/main/inference)
 
 ## Dataset
 
